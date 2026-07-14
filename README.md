@@ -107,31 +107,7 @@ ecommerce-sales-analysis-python/
 
 ### Clone the repository
 
-```bash
-git clone https://github.com/your-username/ecommerce-sales-analysis-python.git
-```
 
-### Navigate to the project folder
-
-```bash
-cd ecommerce-sales-analysis-python
-```
-
-### Install the required libraries
-
-```bash
-pip install -r requirements.txt
-```
-
-### Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open the notebook and run all cells.
-
----
 
 ## 📌 Key Insights
 
